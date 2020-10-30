@@ -4,3 +4,5 @@
 4. concat함수를 이용해 2개의 데이터프레임 병합
 5. read_csv의 이어쓰기 모드를 통해 데이터 추가 저장
 6. read_csv 이어쓰기 모드에서 index, header속성 지정
+
+개발환경: python3.6.7(32bit), Windows 10
